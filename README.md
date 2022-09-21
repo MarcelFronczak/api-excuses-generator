@@ -1,2 +1,2 @@
 # api-excuses-generator
-API Excuses Generator 
+Excuser Application - generates random or sorted by category excuses from Excuser API
